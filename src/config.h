@@ -106,7 +106,7 @@ enum //These vars need to be one after the other (hence the enum)
 #define VAR_HEALING_YPOS 0x5039 //0x405C in JPAN's Engine
 
 /*===== TM/HM/Tutor Options (Vastly improved from other versions!) =====*/
-#define EXPANDED_TMSHMS  //Comment this out if you want to keep 50 tms/8 hms
+//#define EXPANDED_TMSHMS  //Comment this out if you want to keep 50 tms/8 hms
 //#define EXPANDED_MOVE_TUTORS //Comment this out if you want to keep 16 move tutors and the ultimate elemental moves being exclusive to Kantonian starters
 #define NUM_TMS 50	//keep this defined even if EXPANDED_TMSHMS is not!!
 #define NUM_HMS 8	//keep this defined even if EXPANDED_TMSHMS is not!!
